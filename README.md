@@ -5,4 +5,5 @@ easonlee's github
 ## part two：项目简介 Project brief introduction
 这是我的第一个项目，用于尝试GitHub的用法。 This is my first project to try out the use of GitHub.
 这个项目是我做的秒表。 This project is my stopwatch.
-感谢[喊我MB的数字时钟](https://www.cnblogs.com/masterb/p/12269835.html)让我走上了写秒表这条路。Thank [喊我MB's digital clock](https://www.cnblogs.com/masterb/p/12269835.html) for putting me on the road of writing a stopwatch.
+
+感谢[喊我MB的数字时钟](https://www.cnblogs.com/masterb/p/12269835.html)让我走上了写秒表这条路。  Thank [喊我MB's digital clock](https://www.cnblogs.com/masterb/p/12269835.html) for putting me on the road of writing a stopwatch.
