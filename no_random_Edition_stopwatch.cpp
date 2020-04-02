@@ -1,4 +1,4 @@
-//Because the Chinese version will be garbled, I provide another English version. If you don't understand, please go to Baidu translation (https://fanyi.baidu/com) to translate the content.
+//Because the Chinese version will be garbled, I will provide another English version. If you don't understand, please go to Baidu translation (https://fanyi.baidu/com) to translate the content.
 #include <conio.h>
 #include <iostream>
 #include <cstdlib>
@@ -33,7 +33,7 @@ int main(){
 				how=getch()-'0';
 				if(how!=2){
 					now_number=1;
-					jc[1].fen=jc[1].miao=jc[1].hm=0;
+					start=clock();
 				}
 			}
 		}
