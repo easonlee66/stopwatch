@@ -14,3 +14,11 @@ easonlee's github
 感谢[喊我MB的数字时钟](https://www.cnblogs.com/masterb/p/12269835.html)让我走上了写秒表这条路。  Thank [喊我MB's digital clock](https://www.cnblogs.com/masterb/p/12269835.html) for putting me on the road of writing a stopwatch.
 
 更高级的版本（如用鼠标操作）敬请期待^\_^ More advanced version (such as mouse operation) please wait^\_^
+
+## part three 更新日志
+### 版本号（v为正式，t为非正式）简述
+t1.0                  反应慢，计时有问题，但实现了鼠标操作（虽然这就是反应慢的原因，技术差的鼠标操作+有问题的计时=反应慢）
+t2.0                  学会了kbkit，取消了鼠标操作，反应快了许多
+t3.0                  抛弃传统的sleep，使用clock来计时
+v1.0（t3.1）           修复了一些bug，并作为正式版发布
+v1.1                  又删除了一些调试版残余（main.cpp还没同步，所以不要用它）
