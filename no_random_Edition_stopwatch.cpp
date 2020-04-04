@@ -1,4 +1,4 @@
-//Because the Chinese version will be garbled, I will provide another English version. If you don't understand, please go to Baidu translation (https://fanyi.baidu/com) to translate the content.
+//Because the Chinese version will be garbled, I will provide another English version. If you don't understand, please go to Baidu translation (https://fanyi.baidu.com) to translate the content.
 #include <conio.h>
 #include <iostream>
 #include <cstdlib>
