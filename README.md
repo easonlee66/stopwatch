@@ -17,7 +17,7 @@ easonlee's github
 
 ## part three 更新日志 Update log
 |版本号 Version number|版本简介 Version introduction|
-|:----:|:-----|
+|:----:|:-----:|
 |t1.0|反应慢，计时有问题，但实现了鼠标操作（虽然这就是反应慢的原因，技术差的鼠标操作+有问题的计时=反应慢）Slow response, timing problem, but mouse operation is realized (although this is the reason for slow response, poor technology mouse operation + problematic timing = slow response)|
 |t2.0|学会了kbkit，取消了鼠标操作，反应快了许多，但计时还有问题  Learn kbkit, cancel mouse operation, reaction is much faster, but timing is still a problem|
 |t3.0|抛弃传统的sleep，使用clock来计时，解决计时问题 Abandon the traditional sleep, use clock to time, solve the timing problem|
