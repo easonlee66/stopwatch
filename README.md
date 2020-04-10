@@ -24,5 +24,6 @@ easonlee's github
 |v1.0（t3.1）|修复了一些bug，并作为正式版发布 Fixed some bugs and released as official|
 |v1.1|又删除了一些调试版残余（main.cpp已删除）Some debugging residual is deleted (main.cpp has been deleted)|
 |v1.2|解决无法复位的重大bug Resolve major bugs that cannot be reset|
+|v1.3|add HTML version 加入HTML版本|
 
 v为正式，t为非正式 v is formal, t is informal
