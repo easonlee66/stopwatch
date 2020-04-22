@@ -1,5 +1,5 @@
 x = 0  
-var startt;
+var startt,stops;
   
 function count1( )  
 {　
@@ -14,4 +14,14 @@ var alld=new Date();
   startt=alld.getTime();
     count1( );
 }
+function retart(){
+  var alld=new Date();
+  startt+=(alld.getTime()-stops);
+  count1();
+}
 start();
+function stop(){
+  var alld=new Date();
+  startt=alld.getTime();
+  clearTimeout(meter1);
+}
