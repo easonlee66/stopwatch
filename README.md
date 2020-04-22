@@ -28,3 +28,5 @@ easonlee's github
 |v1.4|加入图标（虽然没什么用）Add icons (though not useful)|
 
 v为正式，t为非正式 v is formal, t is informal
+
+# 此branch暂时有bug，暂时报废，所以不要下载他 There is a bug in this branch temporarily, so this branch is temporarily scrapped, so do not download it
