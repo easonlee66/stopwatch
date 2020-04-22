@@ -6,20 +6,19 @@ function count1( )
   var d=new Date();
     x = d.getTime();
     document.getElementById("box1").value= x-startt;  
-    meter1=setTimeout("count1()", 0)  
+    meter1=setTimeout("count1()", 0);
 }
 // 执行函数
 function start(){
 var alld=new Date();
   startt=alld.getTime();
-    count1( );
+    count1();
 }
 function retart(){
   var alld=new Date();
   startt+=(alld.getTime()-stops);
   count1();
 }
-start();
 function stop(){
   var alld=new Date();
   startt=alld.getTime();
