@@ -1,5 +1,5 @@
 x = 0  
-var startt,stops;
+var startt,stops=0;
   
 function count1( )  
 {　
