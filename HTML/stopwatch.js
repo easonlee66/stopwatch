@@ -1,5 +1,5 @@
 var jc=new Array();
-var nownumner=0;
+var nownumner=1;
 jc[1]=0;
 var startt;
 function start(){
@@ -7,6 +7,10 @@ function start(){
   startt=dat.getTime();
 }
 function outputtime(){
+  for(let i=nownumber;i>0;i=i-1){
+    let id="id"+i;
+    document.getElementById(id).innerHTML=jc[i];
+  }
 }
 $("#start").click(function(){
   start();
