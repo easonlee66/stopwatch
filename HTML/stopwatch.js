@@ -1,7 +1,10 @@
 var jc=new Array();
 var nownumner=0;
 jc[1]=0;
+var startt;
 function start(){
+  var dat=new Date();
+  startt=dat.getTime();
 }
 function outputtime(){
 }
