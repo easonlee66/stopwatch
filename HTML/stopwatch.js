@@ -14,15 +14,19 @@ function outputtime(){
 }
 $("#start").click(function(){
   start();
-  $("input").keydown(function(event){
+  $("#key").keydown(function(event){
     var key=event.witch;
     key=key-48;
     if(key==1){
+      nownumber=nownumber+1;
+      document.createElement("p")
     }
     else{
     }
   });
-  $("input").keyup(function(){
+  $("#key").keyup(function(){
+    var dat=new Date();
+    jc[nownumber]=dat.getTime();
     outputtime();
   });
 });
