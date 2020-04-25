@@ -59,4 +59,3 @@ $(document).ready(function() {
 		});
 	});
 	//As you can see, I'm mimicking the C++ version
-});
