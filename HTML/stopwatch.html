@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js"></script>
         <script src="stopwatch.js"></script>
         <title>stopwatch</title>
         <meta charset="utf-8"/>
@@ -11,11 +12,10 @@
         <link rel="icon" type="image/png" href="https://www.iconfinder.com/icons/172560/download/png/16" sizes="16x16">
     </head>
     <body>
-        <form name="display1">   
-            <input type="text" id="box1" name="box1" value="0" size="4" />   
-            <input type="button" value="停止计时" onclick="clearTimeout(meter1)" />   
-            <input type="button" value="继续计时" onclick="count1() " />   
-        </form> 
+        <div id="times"></div>
+        <input type="text" id="key"/>
+        <button type="button" id="start">点我开始</button>
+        <p id="information"></p>
     </body>
 </html>
 <!--HTML版本 HTML version-->
