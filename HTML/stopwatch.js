@@ -4,7 +4,7 @@ $(document).ready(function() {
 	jc[1] = 0;
 	var startt;
 	function start() {
-		var dat = new Date();
+		let dat = new Date();
 		startt = dat.getTime();
 	}
 	function outputtime() {
@@ -15,21 +15,22 @@ $(document).ready(function() {
 	}
 	var pausetime = 0;
 	$("#start").click(function() {
-		start();
+    start();
+    document.getElementById("information").innerHTML="press 1 to"
+    var pause=false;
 		$("#key").keydown(function(event) {
 			var key = event.witch;
 			key = key - 48;
-			var pause = false;
 			if (key == 1) {
 				if (pause) {
 					start();
 				} else {
 					nownumber = nownumber + 1;
-					var newnode = document.createElement("p");
-					var id = document.createAttribute("id");
+					let newnode = document.createElement("p");
+					let id = document.createAttribute("id");
 					id.value = ("id" + nownumner);
 					newnode.setAttribute(id);
-					var text = document.createTextNode("");
+					let text = document.createTextNode("");
 					newnode.appendChild(text);
 					document.getElementById("times").appendChild(newnode);
 				}
