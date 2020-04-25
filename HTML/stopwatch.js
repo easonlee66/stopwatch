@@ -1,13 +1,13 @@
 $(document).ready(function() {
 	var jc = new Array();
-	var nownumner = 1;
+	var nownumber = 1;
 	jc[1] = 0;
   	var startt;
   	function record(){
   	  nownumber = nownumber + 1;
   	  let newnode = document.createElement("p");
   	  let id = document.createAttribute("id");
-  	  id.value = ("id" + nownumner);
+  	  id.value = ("id" + nownumber);
   	  newnode.setAttribute(id);
   	  let text = document.createTextNode("");
   	  newnode.appendChild(text);
