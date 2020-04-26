@@ -25,6 +25,7 @@ int main(){
 				jc[now_number]=jc[now_number-1];
 			}
 			else{
+				int pause=clock();
 				system("cls");
 				for(int i=now_number;i>0;i--){
 					cout << "record" << i << ":  " << jc[i].fen << ":" << jc[i].miao << ":" << jc[i].hm << "\n";
@@ -35,6 +36,9 @@ int main(){
 				if(how!=2){
 					now_number=1;
 					start=clock();
+				}
+				else{
+					start+=(clock()-pause);
 				}
 			}
 		}
