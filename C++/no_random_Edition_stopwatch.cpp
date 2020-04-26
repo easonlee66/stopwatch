@@ -4,25 +4,24 @@
 #include <cstdlib>
 #include <time.h>
 #include <windows.h>
+#include <vector>
 using namespace std;
 struct timex{
 	int fen,miao,hm;
 };//Structure representing time
-timex jc[100];//Record count information
+vector <timex> jc;//Record count information
 int now_number;//How many times is the record now
 int main(){
 	now_number=1;
+	jc.push_back(0);
+	jc.push_back(0);
 	int start=clock();
 	while(1){
 		if(kbhit()){
 			int how=getch()-'0';
 			if(how==1){
 				now_number++;
-				if(now_number>100){
-					MessageBox(NULL,"too much record!!","Error",MB_OK);
-					exit(3322577);
-				}
-				jc[now_number]=jc[now_number-1];
+				jc.push_back(jc[nownumber-1]);
 			}
 			else{
 				int pause=clock();
