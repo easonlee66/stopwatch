@@ -28,5 +28,3 @@ easonlee's github
 |v1.4|加入图标（虽然没什么用）Add icons (though not useful)|
 
 v为正式，t为非正式 v is formal, t is informal
-
-[![easonlee/stopwatch](https://gitee.com/easonlee66/stopwatch/widgets/widget_card.svg?colors=ff00ff,00ff00,ffffff,008cff,3073ab,ff00ff)](https://gitee.com/easonlee66/stopwatch)
