@@ -15,6 +15,8 @@ easonlee's github
 
 更高级的版本（如用鼠标操作）敬请期待^\_^ More advanced version (such as mouse operation) please wait^\_^
 
+为增加速度，中国大陆请到[此处](https://gitee.com/easonlee66/stopwatch)
+
 ## part three 更新日志 Update log
 |版本号 Version number|版本简介 Version introduction|
 |:----:|:-----:|
