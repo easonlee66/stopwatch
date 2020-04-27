@@ -3,12 +3,12 @@
 #include <iostream>
 #include <cstdlib>
 #include <time.h>
+#include <windows.h>
 #define HANDLE GetStdHandle(STD_OUTPUT_HANDLE)
 #define red SetConsoleTextAttribute(HANDLE,FOREGROUND_RED|FOREGROUND_INTENSITY)
 #define ri SetConsoleTextAttribute(HANDLE,FOREGROUND_GREEN|FOREGROUND_INTENSITY|FOREGROUND_RED|FOREGROUND_BLUE)
 #define green SetConsoleTextAttribute(HANDLE,FOREGROUND_GREEN|FOREGROUND_INTENSITY)
 #define blue SetConsoleTextAttribute(HANDLE,FOREGROUND_BLUE|FOREGROUND_INTENSITY)
-#include <windows.h>
 #include <vector>
 using namespace std;
 struct timex{
