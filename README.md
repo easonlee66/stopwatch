@@ -15,7 +15,7 @@ easonlee's github
 
 更高级的版本（如用鼠标操作）敬请期待^\_^ More advanced version (such as mouse operation) please wait^\_^
 
-为增加速度，中国大陆请到[此处](https://gitee.com/easonlee66/stopwatch)
+由于此项目是我直接从GitHub上clone过来的，因此英文居多，看不懂可以到[这里](https://fanyi.baidu.com)或[这里](http://tool.mkblog.cn/fanyi/)翻译
 
 ## part three 更新日志 Update log
 |版本号 Version number|版本简介 Version introduction|
@@ -30,3 +30,7 @@ easonlee's github
 |v1.4|加入图标（虽然没什么用）Add icons (though not useful)|
 
 v为正式，t为非正式 v is formal, t is informal
+
+[![easonlee/stopwatch](https://gitee.com/easonlee66/stopwatch/widgets/widget_card.svg?colors=ff00ff,00ff00,ffffff,008cff,3073ab,ff00ff)](https://gitee.com/easonlee66/stopwatch)
+
+master分支已保护，更改请新建分支然后pull request。如果是使用git，推送到其他分支不方便，也可私信我。
