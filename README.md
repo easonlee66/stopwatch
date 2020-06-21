@@ -31,6 +31,8 @@ easonlee's github
 
 v为正式，t为非正式 v is formal, t is informal
 
+github版本已过时，请点击下面的图片下载最新版本。
+
 [![easonlee/stopwatch](https://gitee.com/easonlee66/stopwatch/widgets/widget_card.svg?colors=ff00ff,00ff00,ffffff,008cff,3073ab,ff00ff)](https://gitee.com/easonlee66/stopwatch)
 
 master分支已保护，更改请新建分支然后pull request。如果是使用git，推送到其他分支不方便，也可私信我。
