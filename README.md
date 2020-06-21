@@ -15,7 +15,7 @@ easonlee's github
 
 更高级的版本（如用鼠标操作）敬请期待^\_^ More advanced version (such as mouse operation) please wait^\_^
 
-由于此项目是我直接从GitHub上clone过来的，因此英文居多，看不懂可以到[这里](https://fanyi.baidu.com)或[这里](http://tool.mkblog.cn/fanyi/)翻译
+本项目英文居多，看不懂可以到[这里](https://fanyi.baidu.com)或[这里](http://tool.mkblog.cn/fanyi/)翻译
 
 ## part three 更新日志 Update log
 |版本号 Version number|版本简介 Version introduction|
